@@ -1,0 +1,1 @@
+njqq"ayyk"ap:silent! %s/\d\+/"\r/gddggdd0GI0 Gg:silent %norm diw:exe 'norm ' . " . 'wdw'"ap:%s/\v^\s+|\s+$//g:%s/\v \zs\d+\ze /\0 \0/g:%s/\v(\d+) (\d+)/\=submatch(1) - submatch(2)/gggGI :g/\v0|4|5|6|7|8|9|.*-.* \d|.* \d.*-|\d\d/dggI01000J0d$j0"_Dpjq:silent! 2,$norm @q:g/^0$/dggO=line('$')-1ggjdG
